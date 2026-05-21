@@ -48,7 +48,7 @@ Jika belum, download di → https://www.python.org/downloads/
 ### 2. Clone repository ini
 
 ```bash
-git clone https://github.com/username/atha-ai-hand-voice-assistant.git
+git clone https://github.com/AthaBhadrika/atha-ai-hand-voice-assistant.git
 cd atha-ai-hand-voice-assistant
 ```
 
@@ -136,7 +136,7 @@ sudo apt install python3 python3-pip python3-venv \
 pip3 install opencv-python mediapipe numpy pyttsx3
 
 # Clone repo
-git clone https://github.com/username/atha-ai-hand-voice-assistant.git
+git clone https://github.com/AthaBhadrika/atha-ai-hand-voice-assistant.git
 cd atha-ai-hand-voice-assistant
 
 # Jalankan
@@ -186,7 +186,7 @@ python3 atha_ai_hand_voice_assistant.py
 **Di HP (Termux sebagai client):**
 ```bash
 pkg install openssh -y
-ssh username@IP_PC_KAMU
+ssh AthaBhadrika@IP_PC_KAMU
 # lalu jalankan program dari sana
 ```
 
